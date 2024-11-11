@@ -1,4 +1,6 @@
 # diverse_illustrations
+一些常见的git命令：
+
 git init  
 git add <filename> or .  
 git commit -m "description"  
